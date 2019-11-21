@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">films</string>
+    <string-array name="mov">
+        <item>Начало</item>
+        <item>Изгой</item>
+        <item>Шерлок</item>
+    </string-array>
+</resources>
